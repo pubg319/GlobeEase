@@ -1,7 +1,7 @@
 export default [
    {
       title: 'Visa to UK',
-      imgUrl: 'public/image/can1.png',
+      imgUrl: '/public/image/can1.png',
       stack: ['', '', ''],
       link: 'https://www.instagram.com/p/C87shrjy6LR/',
    },
